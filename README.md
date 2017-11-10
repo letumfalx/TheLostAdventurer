@@ -6,9 +6,14 @@ Enjoy!
 Working game link:
 http://mygame.likesyou.org/games/thelostadventurer
 
+
 Controls:
+
 left    - going left
+
 right   - going right
+
 up      - entering door
+
 space   - jump
 
