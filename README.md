@@ -17,3 +17,6 @@ up      - entering door
 
 space   - jump
 
+
+
+DISCLAIMER: Does not own the sprites used.
