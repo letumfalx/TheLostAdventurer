@@ -3,8 +3,8 @@ A simple platformer game using PIXI JS.
 It has 5 levels with increasing difficulty.
 Enjoy!
 
-Working game link:
-http://mygame.likesyou.org/games/thelostadventurer
+Demo link:
+https://letumfalx.github.io/TheLostAdventurer/index.html
 
 
 Controls:
